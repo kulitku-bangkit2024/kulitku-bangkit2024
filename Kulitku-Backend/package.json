@@ -1,0 +1,22 @@
+{
+  "name": "kulitku-backend",
+  "version": "1.0.0",
+  "description": "Backend for the KULITKU application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/krisnaasli, https://github.com/Electricstorm0"
+  },
+  "keywords": [
+    "REST",
+    "API",
+    "Node.js",
+    "Express.js",
+    "MySQL"
+  ],
+  "author": "Krisna DS, Burhanudin Malik",
+  "license": "ISC"
+}
